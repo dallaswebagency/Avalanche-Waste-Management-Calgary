@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avalanchewm.com/sitemap.xml
